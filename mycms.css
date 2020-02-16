@@ -1,0 +1,81 @@
+body {
+  background-color: black !important;
+  color: white !important;
+}
+
+a {
+  color: white !important;
+}
+
+.panel-default>.panel-heading {
+  color: white !important;
+}
+
+.btn-default {
+  color: #555 !important;
+}
+
+.btn-primary {
+  color: white !important;
+}
+
+.breadcrumb {
+  background-color: #333 !important;
+}
+
+.panel {
+  background-color: #333 !important;
+}
+
+.list-group-item:not(.active) {
+  background-color: #333 !important;
+}
+
+.panel-heading {
+  background-color: #555 !important;
+}
+
+.panel-footer {
+  background-color: #555 !important;
+}
+
+.comment.dark {
+  background-color: #555 !important;
+}
+
+.comment.light {
+  background-color: #888 !important;
+}
+
+.redactor-editor, .redactor-box {
+  background-color: #555 !important;
+}
+
+.redactor-toolbar {
+  background: inherit !important;
+}
+
+.form-control {
+  background: inherit !important;
+}
+
+.jumbotron {
+  background-color: #333 !important;
+}
+
+.table-striped>tbody>tr:nth-of-type(odd) {
+  background-color: #333 !important;
+}
+
+.select2-dropdown {
+  background-color: #333 !important;
+}
+
+.dropdown-menu {
+  background-color: #333 !important;
+}
+
+.select2-container--bootstrap .select2-search--dropdown .select2-search__field {
+  background: inherit !important;
+  color: inherit !important;
+}
