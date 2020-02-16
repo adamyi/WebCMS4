@@ -79,3 +79,20 @@ a {
   background: inherit !important;
   color: inherit !important;
 }
+
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus,
+.nav>li>a:hover, .nav>li>a:focus {
+  background-color: #888 !important;
+}
+
+.table-hover>tbody>tr:hover {
+  background-color: #888 !important;
+}
+
+.dropdown-menu>li>a:hover, .dropdown-menu>li>a:focus {
+  background-color: #888 !important;
+}
+
+.table .table {
+  background-color: #888 !important;
+}
