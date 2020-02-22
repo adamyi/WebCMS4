@@ -96,3 +96,11 @@ a {
 .table .table {
   background-color: #888 !important;
 }
+
+.modal-content {
+  background-color: #555 !important;
+}
+
+.apexcharts-tooltip.light {
+  background-color: #777 !important;
+}
