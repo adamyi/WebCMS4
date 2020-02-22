@@ -22,6 +22,7 @@ function refineDues() {
   }
 }
 document.addEventListener('DOMContentLoaded', function() {
+  document.getElementsByClassName("navbar-brand")[0].innerHTML = "WebCMS4";
   dumpBookmarks();
   if (window.location.href == "https://webcms3.cse.unsw.edu.au/")
     refineDues();
